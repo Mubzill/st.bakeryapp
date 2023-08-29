@@ -1,3 +1,2 @@
 # st.bakeryapp
-streamlit bakery app
-this app was design as an introduction to streamlit
+streamlit bakery app, this app wawas designeds an introduction to Streamlit
